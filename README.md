@@ -45,4 +45,3 @@ CS & Cybersecurity student in Paris, building projects around secure software an
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E0FF,100:0A192F&height=3&section=footer" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E0FF,100:0A192F&height=3&section=footer" width="100%" />
